@@ -1,0 +1,107 @@
+@charset "UTF-8";
+
+.jumbotron{
+	padding: 3rem 2rem !important;
+	max-width:fit-content;
+	margin: auto;
+	text-align:center;
+	border:1px solid;
+	margin-top:5rem
+}
+.uNameInput,.uPassInput{
+	border:none;
+	border-bottom:1px solid;
+	outline: none;
+	margin-left:10px
+}
+.form-group{
+	margin:0 !important;
+}
+.NavEnd{
+	align-items: center;
+    justify-content: space-between;
+}
+.NavEnd span{
+	color:#e98866;
+	text-align:center;
+}
+.form-group{
+	display: flex;
+	align-items: center;
+}
+.welcomeDiv .btn-Warning{
+	align-self: flex-end ;
+}
+.navDiv{
+    padding: 1rem 2rem .5rem 1rem !important;
+}
+.navDiv span{
+	font-family: -webkit-pictograph;
+    font-size: x-large;
+}
+.TA-center{
+	text-align:center;
+}
+.BL-1{
+	
+	border-left: double deepskyblue; 
+    border-width: thick
+}
+.AS-flexend{
+	align-self:flex-end;
+}
+.Margin-LR05{
+	margin-left:.5rem;
+	margin-right:.5rem;
+}
+.Margin-LR1{
+	margin-left:1rem;
+	margin-right:1rem;
+}
+.Margin-B2{
+	margin-bottom: 2rem !important
+}
+.carousel-login .carousel-item img{
+	height:90vh;
+}
+.login-body-img{
+	background-image: url(https://images.unsplash.com/photo-1603629405696-ceee62f184a8?ixid=MXwxMjA3fDB8MHxzZWFyY2h8MzZ8fGZydWl0cyUyMHdhbGxwYXBlcnxlbnwwfHwwfA%3D%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=900&q=60);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.text-white{
+	color:#111;
+}
+.text-black{
+	color:#000;
+}
+.customer-body-img{
+	background: url(https://images.unsplash.com/photo-1555464735-4706a5ef4bf6?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=2425&q=80);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.bg-color-transprant{
+	background-color: transparent !important;
+	border:none !important;
+}
+.display-welcome-body{
+	background: url(https://images.unsplash.com/photo-1515346782428-a83075d27b8b?ixid=MXwxMjA3fDB8MHxzZWFyY2h8MzZ8fGxpZ2h0JTIwY29sb3IlMjBmcnVpdHxlbnwwfDB8MHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=900&q=60) no-repeat;
+    background-size: cover;
+}
+.ML-r4{
+	margin-left:4rem !important;
+}
+.card-body-top{
+	display: flex ;
+    align-items: baseline;
+}
+.purchasing-count{
+	border: none;
+    border-bottom: 1px solid cornflowerblue;
+    outline: none;
+    width: 4rem;
+    overflow: scroll;
+}
+.container{
+	max-width:900px !important;
+}
