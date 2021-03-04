@@ -13,3 +13,6 @@
 
 <img width="1792" alt="Screenshot 2021-03-04 at 12 45 40 PM" src="https://user-images.githubusercontent.com/37926817/109927238-e23ffa80-7ce9-11eb-9ee1-a53c2dfc8b3d.png">
 
+<img width="1792" alt="Screenshot 2021-03-04 at 12 45 48 PM" src="https://user-images.githubusercontent.com/37926817/109927567-6c885e80-7cea-11eb-9418-e8edbfd9ae06.png">
+
+<img width="1792" alt="Screenshot 2021-03-04 at 12 48 04 PM" src="https://user-images.githubusercontent.com/37926817/109927578-714d1280-7cea-11eb-8970-dc8cdf9832e4.png">
